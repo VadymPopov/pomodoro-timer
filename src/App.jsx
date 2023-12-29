@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <>
-       <h1>React Template</h1>
+       <h1>Pomodoro Timer</h1>
     </>
   )
 };

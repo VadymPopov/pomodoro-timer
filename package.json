@@ -1,6 +1,6 @@
 {
-  "name": "vite-react-template",
-  "homepage": "https://VadymPopov.github.io/vite-react-template/",
+  "name": "pomodoro-timer",
+  "homepage": "https://VadymPopov.github.io/pomodoro-timer/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
